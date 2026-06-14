@@ -1,0 +1,9 @@
+===== PEDIDOS DEL RESTAURANTE =====
+
+ID Pedido: 2
+Cliente: Jose
+Mesa: 15
+Platillo: Pasta Alfredo
+Total: $110.0
+--------------------------------
+
